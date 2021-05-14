@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  AZURE_WEBAPP_NAME: ssaunders3-csc-cs-appservicedemo
+  AZURE_WEBAPP_NAME: ssaunders3-csc-cs-github-actions-appservice-webapp
   AZURE_WEBAPP_PATH: '.'
   DOTNET_VERSION: '5.0.202'
 
